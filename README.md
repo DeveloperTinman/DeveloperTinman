@@ -2,14 +2,9 @@
 #### I am a passionate developer from Canada 🍁
 ![I am a passionate developer from Canada 🍁](https://pbs.twimg.com/profile_banners/1501501759302553606/1647511381/600x200)
 
-Hello! I'm Tinman, coding is my hobby!  Sometimes do UI designing in Figma to.
+Hello! I'm Tinman, coding is my hobby! Sometimes do UI designing in Figma to.
 
 Skills: Python / Luau(Roblox Lua) / Figma / Disnake
-
-- 🔭 I’m currently working on PeakSafe 
-- 🌱 I’m currently learning Javascript 
-- 😄 Pronouns: He/Him 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeveloperTinman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DeveloperTinman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vine.svg' alt='vine' height='40'>](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)  
 
